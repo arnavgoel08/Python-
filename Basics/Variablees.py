@@ -3,3 +3,6 @@ age = 17
 
 print ("name is ",name)
 print ("age is ",age)
+
+print (type(name))
+print (type(age))
