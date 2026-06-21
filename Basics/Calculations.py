@@ -11,3 +11,10 @@ print("product is ",product)
 
 quotient = b/a
 print("quotient is ",quotient)
+
+remainder = b%a
+print("remainder is ",remainder)
+
+exponent = a**2
+print("exponent is ",exponent)
+
