@@ -1,0 +1,5 @@
+tup=(2,1,3,4,5,6,8,2)
+print(type(tup))
+print(tup[0])
+print(tup.index(5))
+print(tup.count(2))
